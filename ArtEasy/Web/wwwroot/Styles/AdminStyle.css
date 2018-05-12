@@ -1,0 +1,22 @@
+﻿#buttonDiv
+{    
+    width: 200px;    
+    margin: 0 auto;
+    padding:5px;
+}
+
+#LoginAction
+{
+    width: 200px; 
+}
+
+#legendDiv
+{   
+    text-align: center;
+}
+
+#loginTable
+{
+    margin: 0 auto;
+}
+

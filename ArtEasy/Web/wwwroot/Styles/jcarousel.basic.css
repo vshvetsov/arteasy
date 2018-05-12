@@ -1,0 +1,83 @@
+.jcarousel-wrapper-images {
+	position: relative;
+	width: 933px;
+	height: 347px;
+	margin: 45px auto 82px; /* margin: 45px auto 60px; */
+	-webkit-border-radius: 25px 25px 25px 25px;
+	-moz-border-radius: 25px 25px 25px 25px;
+	border-radius: 25px 25px 25px 25px;
+	border: 1px solid #e8e8e8;
+}
+/** Carousel **/
+
+.jcarousel-wrapper-images .jcarousel {
+	position: relative;
+	overflow: hidden;
+	-webkit-border-radius: 30px 25px 25px 30px;
+	-moz-border-radius: 30px 25px 25px 30px;
+	border-radius: 30px 25px 25px 30px;
+}
+.jcarousel-wrapper-images .jcarousel ul {
+	width: 20000em;
+	position: relative;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.jcarousel-wrapper-images .jcarousel li {
+	width: 933px !important;
+	float: left;
+	height: 347px;
+}
+/** Carousel Controls **/
+
+.jcarousel-wrapper-images .jcarousel-control-prev, .jcarousel-wrapper-images .jcarousel-control-next {
+	position: absolute;
+	top: 160px;
+	width: 29px;
+	height: 32px;
+	text-align: center;
+	text-decoration: none;
+}
+.jcarousel-wrapper-images .jcarousel-control-prev {
+	left: -33px;
+	background: url(../Images/arrow-left-slider.png) no-repeat left top;
+}
+.jcarousel-wrapper-images .jcarousel-control-next {
+	right: -33px;
+	background: url(../Images/arrow-right-slider.png) no-repeat right top;
+}
+.jcarousel-wrapper-images .jcarousel-control-prev:hover span, .jcarousel-wrapper-images .jcarousel-control-next:hover span {
+	display: block;
+}
+.jcarousel-wrapper-images .jcarousel-control-prev.inactive, .jcarousel-wrapper-images .jcarousel-control-next.inactive {
+	opacity: 0.5;
+	cursor: default;
+}
+/** Carousel Pagination **/
+
+.jcarousel-wrapper-images .jcarousel-pagination {
+	position: absolute;
+	bottom: 0;
+	left: 385px;
+	margin: 0px;
+	transform: translate(-50%, 0px);
+    z-index: 150;
+}
+.jcarousel-wrapper-images .jcarousel-pagination a {
+	text-decoration: none;
+	display: inline-block;
+	width: 11px;
+	height: 11px;
+	padding: 2px;
+	text-align: center;
+	margin-right: 2px;
+	background: url(../Images/bullet-slider.png) no-repeat left top;
+	opacity: .75;
+	font-size: 0px;
+	margin-bottom: 7px;
+}
+.jcarousel-wrapper-images .jcarousel-pagination a.active {
+	background: url(../Images/bullet-slider-hover.png) no-repeat left top;
+	opacity: 1;
+}

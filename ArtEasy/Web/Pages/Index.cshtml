@@ -1,110 +1,226 @@
 ﻿@page
 @model IndexModel
 @{
-    ViewData["Title"] = "Home page";
+    ViewData["Title"] = "ART EASY Studio";
 }
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="6000">
-    <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
-    </ol>
-    <div class="carousel-inner" role="listbox">
-        <div class="item active">
-            <img src="~/images/banner1.svg" alt="ASP.NET" class="img-responsive" />
-            <div class="carousel-caption" role="option">
-                <p>
-                    Learn how to build ASP.NET apps that can run anywhere.
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkID=525028&clcid=0x409">
-                        Learn More
-                    </a>
-                </p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="~/images/banner2.svg" alt="Visual Studio" class="img-responsive" />
-            <div class="carousel-caption" role="option">
-                <p>
-                    There are powerful new features in Visual Studio for building modern web apps.
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkID=525030&clcid=0x409">
-                        Learn More
-                    </a>
-                </p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="~/images/banner3.svg" alt="Package Management" class="img-responsive" />
-            <div class="carousel-caption" role="option">
-                <p>
-                    Bring in libraries from NuGet, Bower, and npm, and automate tasks using Grunt or Gulp.
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkID=525029&clcid=0x409">
-                        Learn More
-                    </a>
-                </p>
-            </div>
-        </div>
-        <div class="item">
-            <img src="~/images/banner4.svg" alt="Microsoft Azure" class="img-responsive" />
-            <div class="carousel-caption" role="option">
-                <p>
-                    Learn how Microsoft's Azure cloud platform allows you to build, deploy, and scale web apps.
-                    <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkID=525027&clcid=0x409">
-                        Learn More
-                    </a>
-                </p>
-            </div>
-        </div>
+<form method="post" action="./" id="Form1">
+    <div class="aspNetHidden">
+        <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIxMzYyNTMwMzBkZChkZ8Nq6Bi29R59TKxV3myPA8ZCGZ53CwFb168JsO67" />
     </div>
-    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-    </a>
-    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
 
-<div class="row">
-    <div class="col-md-3">
-        <h2>Application uses</h2>
-        <ul>
-            <li>Sample pages using ASP.NET Core Razor Pages</li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=518004">Bower</a> for managing client-side libraries</li>
-            <li>Theming using <a href="https://go.microsoft.com/fwlink/?LinkID=398939">Bootstrap</a></li>
-        </ul>
+    <div class="aspNetHidden">
+
+        <input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="8D0E13E6" />
     </div>
-    <div class="col-md-3">
-        <h2>How to</h2>
-        <ul>
-            <li><a href="https://go.microsoft.com/fwlink/?linkid=852130">Working with Razor Pages.</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=699315">Manage User Secrets using Secret Manager.</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=699316">Use logging to log a message.</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=699317">Add packages using NuGet.</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=699318">Add client packages using Bower.</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=699319">Target development, staging or production environment.</a></li>
-        </ul>
+    <div id="up-button">
+        <div id="facade"></div>
+        <img id="strelka" src="Images/strelka_up.png" />
+        <img id="text" src="Images/text_up.png" />
     </div>
-    <div class="col-md-3">
-        <h2>Overview</h2>
-        <ul>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=518008">Conceptual overview of what is ASP.NET Core</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=699320">Fundamentals of ASP.NET Core such as Startup and middleware.</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=398602">Working with Data</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkId=398603">Security</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkID=699321">Client side development</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkID=699322">Develop on different platforms</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkID=699323">Read more on the documentation site</a></li>
-        </ul>
+    <div id="wrapper">
+        <nav>
+            <a id="aboutLink">о нас </a>
+            <a id="portfolioLink">портфолио</a>
+            <a id="partnersLink">клиенты </a>
+            <a id="contactsLink">контакты </a>
+            <span class="phone">8 (909) 09-17-496</span>
+            <a href="mailto:info@arteasy.ru" class="mail">
+                &nbsp;
+                <span id="mail_msg"></span>
+
+            </a>
+        </nav>
+        <header>
+            <section>
+                <!--start gallery of image-->
+                <div class="jcarousel-wrapper-images">
+                    <h1 id="logo">
+                        <a>
+                            <img src="Images/logo.png" width="379" height="347" alt="Art Easy Studio">
+                        </a>
+                    </h1>
+                    <div class="jcarousel">
+                        <ul>
+                            <li>
+                                <img src="Images/Carousel/1.png" alt="Картинка для слайдера" height="347" width="933">
+                            </li>
+                            <li>
+                                <img src="Images/Carousel/2.png" alt="Картинка для слайдера" height="347" width="933">
+                            </li>
+                            <li>
+                                <img src="Images/Carousel/3.png" alt="Картинка для слайдера" height="347" width="933">
+                            </li>
+                        </ul>
+                    </div>
+                    <a href="#" class="jcarousel-control-prev"></a><a href="#" class="jcarousel-control-next"></a>
+                    <p class="jcarousel-pagination"></p>
+                </div>
+                <!--end gallery of image-->
+            </section>
+        </header>
+        <section id="about">
+            <div id="question1">
+
+                <div id="AboutContentPlaceHolder_AboutTextPanel">
+
+                    <div>
+                        <p style="text-align: justify;">
+                            Мы - это небольшая студия дизайна с неравнодушными творителями бытия современной рекламы, работающая уже более 7 лет.&nbsp; Дизайн в нашем понимании &ndash; это не просто красивая картинка, соответствующая техническому заданию, а инструмент направленного действия. При работе над каждым проектом мы опираемся не только на свой богатый опыт и сладкий вкус, но и учитываем психологические особенности восприятия визуальной информации, подсознательные мотивы поведения людей, лабораторных мышей и тихоокеанских дельфинов в момент весеннего солнцестояния.
+                        </p>
+                    </div>
+                </div>
+
+
+            </div>
+            <div id="about-addition">
+                <div id="about-header">
+                </div>
+                <p>
+                    <strong>ART EASY <span style="color:#0998fc">Studio</span></strong> - это студия с дизайнерскими наклонностями,
+                    рекламным характером и экспериментальным настроением.
+                    Наши помощники: солнце, душа и книга по когнитивной психологии.
+                </p>
+                <p>
+                    Продукция, дизайн которой мы делаем чаще всего: многостраничные
+                    каталоги, буклеты, лифлеты, квартальные календари, афиши,
+                    биллборды, вывески, баннеры, сертификаты, визитки, логотипы,
+                    открытки, флаеры, рекламные стойки и тэдэ и тэпэ.
+                </p>
+                <p>
+                    Мы создаем дизайн как для крупных промышленных заводов,
+                    так и для небольших компаний, только начинающих своё дело.
+                    Мы не делаем дизайн ради дизайна. У нас не работает толпа
+                    обезьянок, обученных работать на скорость. Если заказчик
+                    не может ответить на вопрос, зачем ему огромный 100 метровый
+                    баннер с изображением милых плюшевых мишек и целующихся кукол
+                    барби - в таком случае, вероятнее всего, это не наш заказчик.
+                    Мы - самокритичны. Работая над вариантами дизайна, мы стараемся
+                    не показывать “сырой” промежуточный результат.
+                </p>
+                <p>
+                    Перед тем как приступить к работе, составляется психологический
+                    портрет целевого потребителя, проводятся исследования
+                    рынка и конкурентов...
+                </p>
+                <p>
+                    Думать, чувствовать и видеть как потребитель. Оценивать
+                    результат в абстрагированном сознании. Анализировать
+                    и тестировать эскизы на фокус группах. Всё это важные
+                    составляющие эффективной рекламы.
+                </p>
+                <div id="about-footer"></div>
+            </div>
+
+            <div class="about">
+                <a>
+                    <div id="letter-facade-e" class="letter-facade"></div>
+                    <img src="Images/e.png" id="letter-e" class="letter" />
+                    <img src="Images/details1.png" width="149" height="149" id="letter-a-bg">
+                </a>
+                <a>
+                    <div id="letter-facade-a" class="letter-facade"></div>
+                    <img src="Images/a.png" id="letter-a" class="letter" />
+                    <img src="Images/details2.png" width="149" height="149">
+                </a>
+                <a>
+                    <div id="letter-facade-s" class="letter-facade"></div>
+                    <img src="Images/s.png" id="letter-s" class="letter" />
+                    <img src="Images/details3.png" width="149" height="149">
+                </a>
+                <a>
+                    <div id="letter-facade-y" class="letter-facade"></div>
+                    <img src="Images/y.png" id="letter-y" class="letter" />
+                    <img src="Images/details4.png" width="149" height="149">
+                </a>
+                <a class="more">
+                    Подробнее<br>
+                    о нас
+                </a>
+            </div>
+        </section>
+        <section id="portfolio" name="portfolio">
+            <h2>ПОРТФОЛИО</h2>
+            <div id="secondary-menu">
+                <a id="branding">БРЕНДИНГ<div class="strelka"></div></a>
+                <a id="external-advertising">НАРУЖНАЯ РЕКЛАМА<div class="strelka"></div></a>
+                <a id="polygraphy">Полиграфия<div class="strelka"></div></a>
+                <a id="digital">DIGITAL<div class="strelka"></div></a>
+                <a id="showall" class="more">Показать всё</a>
+            </div>
+
+            <div class="anonce">
+                <span></span>
+                <div id="photos"></div>
+                <div class="clear-div"></div>
+                <a class="more">Показать всё</a>
+            </div>
+        </section>
+        <section id="partners-logo">
+            <h2>НАШИ КЛИЕНТЫ</h2>
+            <div class="clear-div"></div>
+            <div class="jcarousel-bg">
+                <div class="jcarousel-wrapper">
+                    <div class="jcarousel">
+                        <ul>
+                            <li>
+                                <a><img id="fors" src="Images/Logos/fors.png" alt=""></a>
+                                <a><img src="Images/Logos/smp-bank.png" alt=""></a>
+                                <a><img src="Images/Logos/ariant.png" alt=""></a>
+                                <a><img src="Images/Logos/pivovarnya.png" alt=""></a>
+                                <a><img src="Images/Logos/ld.png" alt=""></a>
+                            </li>
+                            <li>
+                                <a><img src="Images/Logos/avtotransport.png" alt=""></a>
+                                <a><img src="Images/Logos/philinsoft.png" alt=""></a>
+                                <a><img src="Images/Logos/satka-travel.png" alt=""></a>
+                                <a><img src="Images/Logos/temper.png" alt=""></a>
+                            </li>
+                            <li>
+                                <a><img src="Images/Logos/escobar.png" alt=""></a>
+                                <a><img src="Images/Logos/avtobus-park.png" alt=""></a>
+                                <a><img src="Images/Logos/polytrans.png" alt=""></a>
+                                <a><img src="Images/Logos/vuz-bank.png" alt=""></a>
+                                <a><img src="Images/Logos/mondial.png" alt=""></a>
+                            </li>
+                        </ul>
+                    </div>
+                    <a href="#" class="jcarousel-control-prev"></a><a href="#" class="jcarousel-control-next"></a>
+                </div>
+            </div>
+            <span id="question3"></span>
+        </section>
+        <section id="contacts">
+            <div class="contact">
+                <h2>Наши контакты</h2>
+                <p>г. Челябинск </p>
+                <b>8 (909) 09-17-496</b> <span>info@arteasy.ru</span>
+                <a href="https://vk.com/arteasystudio" class="vk" target="_blank">
+                    Вступайте в нашу группу
+                    <br />
+                    <strong>ВКОНТАКТЕ</strong>
+                </a>
+            </div>
+            <div class="form">
+                <input id="name-input" type="text" placeholder="Ваше имя" class="short" />
+                <input id="email-input" type="email" placeholder="E-mail" class="short no-margin" />
+                <input id="subject-input" type="text" placeholder="Тема сообщения" />
+                <textarea id="msg-input" placeholder="Сообщение"> </textarea>
+                <div class="clear-div"></div>
+
+                <div class="send-btn">Отправить</div>
+
+            </div>
+        </section>
+        <div class="push"></div>
     </div>
-    <div class="col-md-3">
-        <h2>Run &amp; Deploy</h2>
+    <footer>
         <ul>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkID=517851">Run your app</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkID=517853">Run tools such as EF migrations and more</a></li>
-            <li><a href="https://go.microsoft.com/fwlink/?LinkID=398609">Publish to Microsoft Azure App Service</a></li>
+            <li>Студия дизайна <a href="/" class="art-easy"></a>&copy;2015 | Все права защищены</li>
+            <li><a href="http://philinsoft.com/" class="philin-studio"></a>Разработка сайта</li>
         </ul>
-    </div>
-</div>
+    </footer>
+
+</form>
+
+
