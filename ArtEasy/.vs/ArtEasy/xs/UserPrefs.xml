@@ -1,12 +1,10 @@
 ﻿<Properties StartupConfiguration="{6D859C5A-C95B-4A94-8E22-DCCED841DD60}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Web/Startup.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web/Pages/Texts/Edit.cshtml.cs">
     <Files>
-      <File FileName="Web/Pages/Index.cshtml" Line="1" Column="1" />
-      <File FileName="Web/Pages/_Layout.cshtml" Line="14" Column="33" />
-      <File FileName="Web/DAL/Entities/TextDto.cs" Line="4" Column="28" />
-      <File FileName="Web/DAL/CmsContext.cs" Line="10" Column="3" />
-      <File FileName="Web/appsettings.json" Line="9" Column="41" />
-      <File FileName="Web/Startup.cs" Line="27" Column="49" />
+      <File FileName="Web/Web.csproj" Line="18" Column="1" />
+      <File FileName="Web/Migrations/20180512112104_InitialCreate.cs" Line="22" Column="20" />
+      <File FileName="Web/Pages/Texts/Details.cshtml.cs" Line="1" Column="1" />
+      <File FileName="Web/Pages/Texts/Edit.cshtml.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
