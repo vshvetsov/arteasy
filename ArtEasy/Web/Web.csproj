@@ -14,4 +14,18 @@
     <Folder Include="DAL\" />
     <Folder Include="DAL\Entities\" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Pages\Texts\Create.cshtml" />
+    <Content Remove="Pages\Texts\Delete.cshtml" />
+    <Content Remove="Pages\Texts\Details.cshtml" />
+    <Content Remove="Pages\Texts\Edit.cshtml" />
+    <Content Remove="Pages\Texts\Index.cshtml" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Pages\Texts\Create.cshtml" />
+    <None Include="Pages\Texts\Delete.cshtml" />
+    <None Include="Pages\Texts\Details.cshtml" />
+    <None Include="Pages\Texts\Edit.cshtml" />
+    <None Include="Pages\Texts\Index.cshtml" />
+  </ItemGroup>
 </Project>
