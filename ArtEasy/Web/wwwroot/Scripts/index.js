@@ -417,8 +417,7 @@ function initMenu() {
         scrollPos = $(window).scrollTop();
         aboutPos = $('#about').offset().top - 105;
         potfolioPos = $('#portfolio').offset().top - 106;
-        customerPos = $('#partners-logo').offset().top - 91;
-        contactsPos = $('#contacts').offset().top - 191;
+        contactsPos = $('#contacts').offset().top - 300;
 
         if (scrollPos >= $.menufixInterval &&
             $.isMenuFixed == false) {
@@ -434,10 +433,8 @@ function initMenu() {
         if ($.isSelectingNavLinksOnScrollEnabled == true) {
             if (scrollPos >= aboutPos && scrollPos < potfolioPos) {
                 selectNavigationLink($('#aboutLink'));
-            } else if (scrollPos >= potfolioPos && scrollPos < customerPos) {
+            } else if (scrollPos >= potfolioPos && scrollPos < contactsPos) {
                 selectNavigationLink($('#portfolioLink'));
-            } else if (scrollPos >= customerPos && scrollPos < contactsPos) {
-                selectNavigationLink($('#partnersLink'));
             } else if (scrollPos >= contactsPos) {
                 selectNavigationLink($('#contactsLink'));
             } else {
@@ -461,11 +458,6 @@ function initMenu() {
         scrollToPortfolio();
     });
 
-    $('#partnersLink').click(function () {
-        selectNavigationLink($(this));
-        scrollToSection($('#partners-logo'), 90);
-    });
-
     $('#contactsLink').click(function () {
         selectNavigationLink($(this));
         scrollToSection($('#contacts'), 0);
@@ -481,7 +473,6 @@ function initMenu() {
     function deselectAllNavigationLinks() {
         $('#aboutLink').removeClass('selected');
         $('#portfolioLink').removeClass('selected');
-        $('#partnersLink').removeClass('selected');
         $('#contactsLink').removeClass('selected');
     }
 
@@ -659,7 +650,6 @@ function expandAboutRegion() {
 
 function collapseAboutRegion() {
     $.isAboutExpanded = false;
-    $('#question1').animate({ 'margin-bottom': '53px' }, 300);
     $('#about-addition').animate({ height: 0 + 'px' }, 300);
     $('#about .more').removeClass('selected');
     $('#about .more').empty().append('Подробнее<br/>о нас');

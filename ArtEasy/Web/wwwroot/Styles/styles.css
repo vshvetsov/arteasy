@@ -225,7 +225,6 @@ nav {
     height: 19px;
     margin-top: 36px;
     margin-left: 392px;
-    margin-bottom: 39px;
 }
 
 #question1 {
@@ -233,7 +232,7 @@ nav {
     padding-left: 167px;
     overflow: visible !important;
     text-align: justify;
-    margin-bottom: 53px;
+    /*margin-bottom: 53px;*/
     /*height: 171px;*/
 }
 
@@ -324,8 +323,7 @@ nav {
     }
 
 #wrapper .about .more {
-    background: url(../Images/telescop.png) no-repeat left -8px, url(../Images/arrow-details.png) no-repeat right 101px;
-    padding: 100px 27px 10px 130px;
+    padding: 7px 27px 10px 130px;
     text-align: right;
     float: right;
     display: block;
@@ -335,7 +333,6 @@ nav {
 
     #wrapper .about .more:hover,
     #wrapper .about .more.selected {
-        background: url(../Images/telescop.png) no-repeat left -8px, url(../Images/arrow-details_hover.png) no-repeat right 101px;
         color: #0B9BFF;
     }
 
