@@ -347,16 +347,23 @@ nav {
         position: absolute;
         top: 1px;
         left: 0;
+        text-align: center;
+        width: 100%
+    }
+
+    #portfolio .more-wrapper {
+        position: relative;
+        height: 40px;
     }
 
 
-#secondary-menu {
-    position: absolute;
-    top: 4px;
-    left: 173px;
-    width: 1000px;
-    height: 26px;
-}
+    #secondary-menu {
+        position: absolute;
+        top: 4px;
+        left: 173px;
+        width: 1000px;
+        height: 26px;
+    }
 
     #secondary-menu a {
         position: absolute;
@@ -571,11 +578,14 @@ nav {
 #wrapper .anonce .more {
     /*background: url(../Images/ballon.png) no-repeat left top, url(../Images/arrow-details.png) no-repeat right 47px;*/
     /*height: 100px;*/
-    width: 84px;
+    position: absolute;
+    left: 50%;
+    margin-left: -42px;
+    width: 78px;
     /*display: block;*/
     /*padding-left: 208px;*/
     /*padding-top: 50px;*/
-    margin-top: 20px;
+    /*margin-top: 20px;*/
 }
 
     /*#wrapper .anonce .more:hover,
