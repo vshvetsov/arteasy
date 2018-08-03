@@ -605,6 +605,36 @@ nav {
         margin-bottom: 29px;
     }
 
+    #partners-logo li {
+        height: 100px;
+    }
+    #partners-logo #first-row {
+        position: absolute;
+        left: 50%;
+        margin-left: -446px;
+        width: 883px;
+    }
+
+    #partners-logo #second-row {
+        position: absolute;
+        left: 50%;
+        margin-left: -440px;
+        /* background-color: blue; */
+        width: 867px;
+    }
+
+    #partners-logo #third-row {
+        position: absolute;
+        left: 50%;
+        margin-left: -442px;
+        /* background-color: blue; */
+        width: 876px;
+    }
+
+    #partners-logo a {
+        padding: 0px 25px 0px 25px;
+    }
+
 #up-button {
     position: fixed;
     bottom: 0px;
