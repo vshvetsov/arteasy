@@ -207,7 +207,7 @@ nav {
     }
 
 #about p {
-    text-align: justify;
+    text-align: center;
 }
 
 #about-header {
@@ -228,10 +228,10 @@ nav {
 }
 
 #question1 {
-    background: url(../Images/question1.png) no-repeat left top;
-    padding-left: 167px;
+    /*background: url(../Images/question1.png) no-repeat left top;
+    padding-left: 167px;*/
     overflow: visible !important;
-    text-align: justify;
+    text-align: center;
     /*margin-bottom: 53px;*/
     /*height: 171px;*/
 }
@@ -449,7 +449,7 @@ nav {
     margin-top: 63px;
 }
 
-    .anonce span {
+    /*.anonce span {
         position: absolute;
         background: url(../Images/question2.png) no-repeat left top, url(../Images/bg-long.png) no-repeat right top;
         right: -20px;
@@ -457,7 +457,7 @@ nav {
         display: block;
         width: 212px;
         height: 82px;
-    }
+    }*/
 
     .anonce figure {
         background: url(../Images/shadow-portfolio.png) no-repeat right bottom;
