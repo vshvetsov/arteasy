@@ -569,19 +569,19 @@ nav {
         }
 
 #wrapper .anonce .more {
-    background: url(../Images/ballon.png) no-repeat left top, url(../Images/arrow-details.png) no-repeat right 47px;
-    height: 100px;
+    /*background: url(../Images/ballon.png) no-repeat left top, url(../Images/arrow-details.png) no-repeat right 47px;*/
+    /*height: 100px;*/
     width: 84px;
-    display: block;
-    padding-left: 208px;
-    padding-top: 50px;
+    /*display: block;*/
+    /*padding-left: 208px;*/
+    /*padding-top: 50px;*/
     margin-top: 20px;
 }
 
-    #wrapper .anonce .more:hover,
+    /*#wrapper .anonce .more:hover,
     #wrapper .anonce .more.hover {
         background: url(../Images/ballon.png) no-repeat left top, url(../Images/arrow-details_hover.png) no-repeat right 46px;
-    }
+    }*/
 
 #partners-logo {
     position: relative;
