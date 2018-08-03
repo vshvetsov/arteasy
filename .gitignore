@@ -2,3 +2,13 @@
 ArtEasy/Web/bin/
 
 ArtEasy/Web/obj/
+
+\.DS_Store
+
+ArtEasy/\.vs/ArtEasy/xs/sqlite3/storage\.ide
+
+ArtEasy/\.vs/ArtEasy/xs/sqlite3/storage\.ide-shm
+
+ArtEasy/\.vs/ArtEasy/xs/sqlite3/storage\.ide-wal
+
+ArtEasy/\.vs/ArtEasy/xs/UserPrefs\.xml
