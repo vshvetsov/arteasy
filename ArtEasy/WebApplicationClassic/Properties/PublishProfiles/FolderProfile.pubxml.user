@@ -10,547 +10,547 @@
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/WebApplicationClassic.dll">
-      <publishTime>08/04/2018 17:55:28</publishTime>
+      <publishTime>04/08/2018 17:55:28</publishTime>
     </File>
     <File Include="bin/WebApplicationClassic.pdb">
-      <publishTime>08/04/2018 17:55:28</publishTime>
+      <publishTime>04/08/2018 17:55:28</publishTime>
     </File>
     <File Include="Default.aspx">
-      <publishTime>08/04/2018 17:46:03</publishTime>
+      <publishTime>08/04/2018 18:34:53</publishTime>
     </File>
     <File Include="f1b700cf87ad.html">
-      <publishTime>08/04/2018 17:50:32</publishTime>
+      <publishTime>04/08/2018 17:50:32</publishTime>
     </File>
     <File Include="favicon.ico">
-      <publishTime>08/04/2018 17:50:32</publishTime>
+      <publishTime>04/08/2018 17:50:32</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>08/04/2018 17:32:24</publishTime>
+      <publishTime>04/08/2018 17:32:24</publishTime>
     </File>
     <File Include="highslide/easing_equations.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/editor-config.txt">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/close.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/closeX.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/controlbar-black-border.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/controlbar-text-buttons.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/controlbar-white-small.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/controlbar-white.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/controlbar2.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/controlbar3.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/controlbar4-hover.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/controlbar4.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/fullexpand.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/geckodimmer.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/icon.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/loader.big.black.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/loader.big.white.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/loader.black.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/loader.white.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/outlines/beveled.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/outlines/custom.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/outlines/drop-shadow.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/outlines/glossy-dark.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/outlines/outer-glow.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/outlines/rounded-black.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/outlines/rounded-white.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/resize.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/scrollarrows.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/zoom.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/zoomin.cur">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/graphics/zoomout.cur">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide-full.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide-full.packed.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide-ie6.css">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide-with-gallery.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide-with-gallery.packed.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide-with-html.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide-with-html.packed.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide.config.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide.css">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="highslide/highslide.packed.js">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="Images/a.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/about-footer.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="Images/about-header.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/arrow-details.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/arrow-details_active.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/arrow-details_hover.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/arrow-left-slider.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/arrow-portfolio.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/arrow-right-slider.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/ballon.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/bg-long.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/bg.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="Images/bg_contacts.png">
-      <publishTime>08/04/2018 17:49:37</publishTime>
+      <publishTime>04/08/2018 17:49:37</publishTime>
     </File>
     <File Include="Images/bg_logo.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/bg_portfolio_hover.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/blue-strelka.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/bullet-slider-hover.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/bullet-slider.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Carousel/1.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Carousel/2.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Carousel/3.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/close-btn.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/details1.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/details2.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/details3.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/details4.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/e.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/footer-logo1.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/footer-logo2-hover.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/footer-logo2.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/1.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/1_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/2.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/2_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/3.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/3_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/4.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/4_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/5.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/5_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/6.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Advertising/6_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/1.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/1_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/2.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/2_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/3.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/3_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/4.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/4_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/5.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Branding/5_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/1.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/1_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/2.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/2_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/3.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/3_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/4.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/4_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/5.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Digital/5_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/1.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/1_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/2.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/2_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/3.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/3_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/4.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/4_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/5.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/5_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/6.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Galleries/Polygraphy/6_preview.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/gallery-bottom-line.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/img-anonce1.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/left-btn-hover.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/left-btn.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/logo-partners.jpg">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/logo.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/logo90x89.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/Logos/ariant.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/avtobus-park.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/avtotransport.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/escobar.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/fors.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/ld.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/mondial.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/philinsoft.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/pivovarnya.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/polytrans.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/satka-travel.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/smp-bank.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/temper.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/Logos/vuz-bank.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/logo_menu.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/mail.gif">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/mail_hover.gif">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="Images/mail_hover_msg-2.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/mail_hover_msg.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/PhilinSoft Logo.jpg">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/question1.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/question2.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/question3.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/repair.jpg">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="Images/right-btn-hover.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/right-btn.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/s.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/shadow-portfolio.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/space.gif">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/strelka_up.png">
-      <publishTime>08/04/2018 17:49:40</publishTime>
+      <publishTime>04/08/2018 17:49:40</publishTime>
     </File>
     <File Include="Images/telescop.png">
-      <publishTime>08/04/2018 17:49:39</publishTime>
+      <publishTime>04/08/2018 17:49:39</publishTime>
     </File>
     <File Include="Images/text_up.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/vk.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/vk_hover.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="Images/y.png">
-      <publishTime>08/04/2018 17:49:38</publishTime>
+      <publishTime>04/08/2018 17:49:38</publishTime>
     </File>
     <File Include="jsibox/img/ajax-loader2.gif">
-      <publishTime>08/04/2018 17:50:20</publishTime>
+      <publishTime>04/08/2018 17:50:20</publishTime>
     </File>
     <File Include="jsibox/img/blank.gif">
-      <publishTime>08/04/2018 17:50:20</publishTime>
+      <publishTime>04/08/2018 17:50:20</publishTime>
     </File>
     <File Include="jsibox/jsibox_basic.js">
-      <publishTime>08/04/2018 17:50:20</publishTime>
+      <publishTime>04/08/2018 17:50:20</publishTime>
     </File>
     <File Include="Scripts/index.js">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Scripts/jquery-1.11.1.min.js">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Scripts/jquery.jcarousel.js">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/admin.css">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/AdminStyle.css">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/denial.eot">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/denial.svg">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/denial.ttf">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/denial.woff">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/jcarousel.basic.css">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/jcarousel.customers.css">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/repair.css">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>04/08/2018 17:48:36</publishTime>
     </File>
     <File Include="Styles/styles.css">
-      <publishTime>08/04/2018 17:48:36</publishTime>
+      <publishTime>08/04/2018 18:38:28</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>08/04/2018 17:55:28</publishTime>
+      <publishTime>04/08/2018 17:55:28</publishTime>
     </File>
   </ItemGroup>
 </Project>

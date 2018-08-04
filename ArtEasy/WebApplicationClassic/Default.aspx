@@ -211,8 +211,8 @@
                 <textarea id="msg-input" placeholder="Сообщение"> </textarea>
                 <div class="clear-div"></div>
 
-                <div class="send-btn">Отправить</div>
-
+                <div class="send-btn" onclick="document.getElementById('<%= sendBtn.ClientID %>').click()">Отправить</div>
+                <asp:Button ID="sendBtn" runat="server" OnClick="Unnamed_Click" style="display:none"/>
             </div>
         </section>
         <div class="push"></div>
