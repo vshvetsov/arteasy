@@ -708,14 +708,24 @@ nav {
         color: #1b1b1b;
     }
 
-    .contact span, .contact a {
-        background: url(../Images/mail.gif) no-repeat 130px -7px;
-        padding-left: 165px;
-        font-weight: bold;
-        text-decoration: none;
-        padding-top: 0px;
-        padding-bottom: 3px;
-    }
+#contacts-phone {
+	display: inline;
+	font-size: 34px;
+	font-family: DENIAL;
+	font-weight: normal;
+	font-style: normal;
+	color: #1b1b1b;
+	text-decoration:none;
+}
+
+.contact span{
+	background: url(../Images/mail.gif) no-repeat 130px -7px;
+	padding-left: 165px;
+	font-weight: bold;
+	text-decoration: none;
+	padding-top: 0px;
+	padding-bottom: 3px;
+}
         /*.contact a:hover {
 	background: url(../Images/mail_hover.gif) no-repeat 150px -3px;
 }*/

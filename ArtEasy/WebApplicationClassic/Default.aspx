@@ -62,8 +62,8 @@
             <a id="aboutLink">о студии</a>
             <a id="portfolioLink">проекты</a>
             <a id="contactsLink">контакты </a>
-            <span class="phone">8 (909) 09-17-496</span>
-            <a href="mailto:info@arteasy.ru" class="mail">
+            <a href="tel:+79090917496" class="phone">8 (909) 09-17-496</a>
+            <a href="mailto:info@arteasy.ru" class="mail" id="menu-mail">
                 &nbsp;
                 <span id="mail_msg"></span>
 
@@ -202,7 +202,7 @@
             <div class="contact">
                 <h2>Наши контакты</h2>
                 <p>г. Челябинск </p>
-                <b>8 (909) 09-17-496</b> <span>info@arteasy.ru</span>
+                <a href="tel:+79090917496" id="contacts-phone">8 (909) 09-17-496</a><span>info@arteasy.ru</span>
             </div>
             <div class="form">
                 <input id="name-input" type="text" placeholder="Ваше имя" class="short" />

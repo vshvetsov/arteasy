@@ -1,7 +1,0 @@
-\\Mac\Home\Src\arteasy\ArtEasy\WebApplicationClassic\bin\WebApplicationClassic.dll.config
-\\Mac\Home\Src\arteasy\ArtEasy\WebApplicationClassic\bin\WebApplicationClassic.dll
-\\Mac\Home\Src\arteasy\ArtEasy\WebApplicationClassic\bin\WebApplicationClassic.pdb
-\\Mac\Home\Src\arteasy\ArtEasy\WebApplicationClassic\obj\Debug\WebApplicationClassic.csprojAssemblyReference.cache
-\\Mac\Home\Src\arteasy\ArtEasy\WebApplicationClassic\obj\Debug\WebApplicationClassic.csproj.CoreCompileInputs.cache
-\\Mac\Home\Src\arteasy\ArtEasy\WebApplicationClassic\obj\Debug\WebApplicationClassic.dll
-\\Mac\Home\Src\arteasy\ArtEasy\WebApplicationClassic\obj\Debug\WebApplicationClassic.pdb
