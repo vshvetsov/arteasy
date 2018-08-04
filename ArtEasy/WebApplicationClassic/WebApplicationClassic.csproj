@@ -64,10 +64,204 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Default.aspx" />
+    <Content Include="f1b700cf87ad.html" />
+    <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
+    <Content Include="Images\Carousel\1.png" />
+    <Content Include="Images\Carousel\2.png" />
+    <Content Include="Images\Carousel\3.png" />
+    <Content Include="Images\Galleries\Advertising\1.jpg" />
+    <Content Include="Images\Galleries\Advertising\1_preview.jpg" />
+    <Content Include="Images\Galleries\Advertising\2.jpg" />
+    <Content Include="Images\Galleries\Advertising\2_preview.jpg" />
+    <Content Include="Images\Galleries\Advertising\3.jpg" />
+    <Content Include="Images\Galleries\Advertising\3_preview.jpg" />
+    <Content Include="Images\Galleries\Advertising\4.jpg" />
+    <Content Include="Images\Galleries\Advertising\4_preview.jpg" />
+    <Content Include="Images\Galleries\Advertising\5.jpg" />
+    <Content Include="Images\Galleries\Advertising\5_preview.jpg" />
+    <Content Include="Images\Galleries\Advertising\6.jpg" />
+    <Content Include="Images\Galleries\Advertising\6_preview.jpg" />
+    <Content Include="Images\Galleries\Branding\1.jpg" />
+    <Content Include="Images\Galleries\Branding\1_preview.jpg" />
+    <Content Include="Images\Galleries\Branding\2.jpg" />
+    <Content Include="Images\Galleries\Branding\2_preview.jpg" />
+    <Content Include="Images\Galleries\Branding\3.jpg" />
+    <Content Include="Images\Galleries\Branding\3_preview.jpg" />
+    <Content Include="Images\Galleries\Branding\4.jpg" />
+    <Content Include="Images\Galleries\Branding\4_preview.jpg" />
+    <Content Include="Images\Galleries\Branding\5.jpg" />
+    <Content Include="Images\Galleries\Branding\5_preview.jpg" />
+    <Content Include="Images\Galleries\Digital\1.jpg" />
+    <Content Include="Images\Galleries\Digital\1_preview.jpg" />
+    <Content Include="Images\Galleries\Digital\2.jpg" />
+    <Content Include="Images\Galleries\Digital\2_preview.jpg" />
+    <Content Include="Images\Galleries\Digital\3.jpg" />
+    <Content Include="Images\Galleries\Digital\3_preview.jpg" />
+    <Content Include="Images\Galleries\Digital\4.jpg" />
+    <Content Include="Images\Galleries\Digital\4_preview.jpg" />
+    <Content Include="Images\Galleries\Digital\5.jpg" />
+    <Content Include="Images\Galleries\Digital\5_preview.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\1.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\1_preview.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\2.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\2_preview.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\3.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\3_preview.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\4.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\4_preview.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\5.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\5_preview.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\6.jpg" />
+    <Content Include="Images\Galleries\Polygraphy\6_preview.jpg" />
+    <Content Include="Images\Logos\ariant.png" />
+    <Content Include="Images\Logos\avtobus-park.png" />
+    <Content Include="Images\Logos\avtotransport.png" />
+    <Content Include="Images\Logos\escobar.png" />
+    <Content Include="Images\Logos\fors.png" />
+    <Content Include="Images\Logos\ld.png" />
+    <Content Include="Images\Logos\mondial.png" />
+    <Content Include="Images\Logos\philinsoft.png" />
+    <Content Include="Images\Logos\pivovarnya.png" />
+    <Content Include="Images\Logos\polytrans.png" />
+    <Content Include="Images\Logos\satka-travel.png" />
+    <Content Include="Images\Logos\smp-bank.png" />
+    <Content Include="Images\Logos\temper.png" />
+    <Content Include="Images\Logos\vuz-bank.png" />
+    <Content Include="Images\a.png" />
+    <Content Include="Images\about-footer.png" />
+    <Content Include="Images\about-header.png" />
+    <Content Include="Images\arrow-details.png" />
+    <Content Include="Images\arrow-details_active.png" />
+    <Content Include="Images\arrow-details_hover.png" />
+    <Content Include="Images\arrow-left-slider.png" />
+    <Content Include="Images\arrow-portfolio.png" />
+    <Content Include="Images\arrow-right-slider.png" />
+    <Content Include="Images\ballon.png" />
+    <Content Include="Images\bg.png" />
+    <Content Include="Images\bg_contacts.png" />
+    <Content Include="Images\bg_logo.png" />
+    <Content Include="Images\bg_portfolio_hover.png" />
+    <Content Include="Images\bg-long.png" />
+    <Content Include="Images\blue-strelka.png" />
+    <Content Include="Images\bullet-slider.png" />
+    <Content Include="Images\bullet-slider-hover.png" />
+    <Content Include="Images\close-btn.png" />
+    <Content Include="Images\details1.png" />
+    <Content Include="Images\details2.png" />
+    <Content Include="Images\details3.png" />
+    <Content Include="Images\details4.png" />
+    <Content Include="Images\e.png" />
+    <Content Include="Images\footer-logo1.png" />
+    <Content Include="Images\footer-logo2.png" />
+    <Content Include="Images\footer-logo2-hover.png" />
+    <Content Include="Images\gallery-bottom-line.png" />
+    <Content Include="Images\img-anonce1.png" />
+    <Content Include="Images\left-btn.png" />
+    <Content Include="Images\left-btn-hover.png" />
+    <Content Include="Images\logo.png" />
+    <Content Include="Images\logo_menu.png" />
+    <Content Include="Images\logo90x89.png" />
+    <Content Include="Images\logo-partners.jpg" />
+    <Content Include="Images\mail.gif" />
+    <Content Include="Images\mail_hover.gif" />
+    <Content Include="Images\mail_hover_msg.png" />
+    <Content Include="Images\mail_hover_msg-2.png" />
+    <Content Include="Images\PhilinSoft Logo.jpg" />
+    <Content Include="Images\question1.png" />
+    <Content Include="Images\question2.png" />
+    <Content Include="Images\question3.png" />
+    <Content Include="Images\repair.jpg" />
+    <Content Include="Images\right-btn.png" />
+    <Content Include="Images\right-btn-hover.png" />
+    <Content Include="Images\s.png" />
+    <Content Include="Images\shadow-portfolio.png" />
+    <Content Include="Images\space.gif" />
+    <Content Include="Images\strelka_up.png" />
+    <Content Include="Images\telescop.png" />
+    <Content Include="Images\text_up.png" />
+    <Content Include="Images\vk.png" />
+    <Content Include="Images\vk_hover.png" />
+    <Content Include="Images\y.png" />
+    <Content Include="highslide\graphics\outlines\beveled.png" />
+    <Content Include="highslide\graphics\outlines\custom.png" />
+    <Content Include="highslide\graphics\outlines\drop-shadow.png" />
+    <Content Include="highslide\graphics\outlines\glossy-dark.png" />
+    <Content Include="highslide\graphics\outlines\outer-glow.png" />
+    <Content Include="highslide\graphics\outlines\rounded-black.png" />
+    <Content Include="highslide\graphics\outlines\rounded-white.png" />
+    <Content Include="highslide\graphics\close.png" />
+    <Content Include="highslide\graphics\closeX.png" />
+    <Content Include="highslide\graphics\controlbar2.gif" />
+    <Content Include="highslide\graphics\controlbar3.gif" />
+    <Content Include="highslide\graphics\controlbar4.gif" />
+    <Content Include="highslide\graphics\controlbar4-hover.gif" />
+    <Content Include="highslide\graphics\controlbar-black-border.gif" />
+    <Content Include="highslide\graphics\controlbar-text-buttons.png" />
+    <Content Include="highslide\graphics\controlbar-white.gif" />
+    <Content Include="highslide\graphics\controlbar-white-small.gif" />
+    <Content Include="highslide\graphics\fullexpand.gif" />
+    <Content Include="highslide\graphics\geckodimmer.png" />
+    <Content Include="highslide\graphics\icon.gif" />
+    <Content Include="highslide\graphics\loader.big.black.gif" />
+    <Content Include="highslide\graphics\loader.big.white.gif" />
+    <Content Include="highslide\graphics\loader.black.gif" />
+    <Content Include="highslide\graphics\loader.white.gif" />
+    <Content Include="highslide\graphics\resize.gif" />
+    <Content Include="highslide\graphics\scrollarrows.png" />
+    <Content Include="highslide\graphics\zoom.png" />
+    <Content Include="highslide\graphics\zoomin.cur" />
+    <Content Include="highslide\graphics\zoomout.cur" />
+    <Content Include="highslide\easing_equations.js" />
+    <Content Include="highslide\editor-config.txt" />
+    <Content Include="highslide\highslide.css" />
+    <Content Include="highslide\highslide.js" />
+    <Content Include="highslide\highslide.config.js">
+      <DependentUpon>highslide.js</DependentUpon>
+    </Content>
+    <Content Include="highslide\highslide.packed.js">
+      <DependentUpon>highslide.js</DependentUpon>
+    </Content>
+    <Content Include="highslide\highslide-full.js" />
+    <Content Include="highslide\highslide-full.packed.js">
+      <DependentUpon>highslide-full.js</DependentUpon>
+    </Content>
+    <Content Include="highslide\highslide-ie6.css" />
+    <Content Include="highslide\highslide-with-gallery.js" />
+    <Content Include="highslide\highslide-with-gallery.packed.js">
+      <DependentUpon>highslide-with-gallery.js</DependentUpon>
+    </Content>
+    <Content Include="highslide\highslide-with-html.js" />
+    <Content Include="highslide\highslide-with-html.packed.js">
+      <DependentUpon>highslide-with-html.js</DependentUpon>
+    </Content>
+    <Content Include="jsibox\img\ajax-loader2.gif" />
+    <Content Include="jsibox\img\blank.gif" />
+    <Content Include="jsibox\jsibox_basic.js" />
+    <Content Include="Styles\admin.css" />
+    <Content Include="Styles\AdminStyle.css" />
+    <Content Include="Styles\denial.svg" />
+    <Content Include="Styles\jcarousel.basic.css" />
+    <Content Include="Styles\jcarousel.customers.css" />
+    <Content Include="Styles\repair.css" />
+    <Content Include="Styles\styles.css" />
+    <Content Include="Scripts\index.js" />
+    <Content Include="Scripts\jquery.jcarousel.js" />
+    <Content Include="Scripts\jquery-1.11.1.min.js" />
     <Content Include="Web.config" />
+    <Content Include="Styles\denial.eot" />
+    <Content Include="Styles\denial.ttf" />
+    <Content Include="Styles\denial.woff" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>

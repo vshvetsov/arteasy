@@ -1,0 +1,72 @@
+.jcarousel-bg {
+	background: url(../Images/bg_logo.png) no-repeat center 5px;
+	padding: 1px 0px 15px 0px;
+	height: 128px;
+}
+.jcarousel-wrapper {
+	margin: 20px auto 15px;
+	position: relative;
+	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+	padding: 0px 10px;
+}
+/** Carousel **/
+
+.jcarousel-wrapper .jcarousel {
+	position: relative;
+	overflow: hidden;
+	width: 920px;
+	margin: 0px auto;
+}
+.jcarousel-wrapper .jcarousel ul {
+	width: 20000em;
+	position: relative;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+.jcarousel-wrapper .jcarousel li {
+	text-align: center;
+	width: 920px !important;
+	float: left;
+}
+.jcarousel-wrapper .jcarousel li a {
+	text-decoration: none;
+	padding: 0px 25px 0 25px;
+	background-position: center top;
+    background-repeat: no-repeat;
+}
+
+/** Carousel Controls **/
+
+.jcarousel-wrapper .jcarousel-control-prev {
+	position: absolute;
+	position: absolute;
+	top: 50%;
+	margin-top: -15px;
+	width: 19px;
+	height: 32px;
+	text-align: center;
+	left: -33px;
+	background: url(../Images/arrow-left-slider.png) no-repeat left top;
+}
+.jcarousel-wrapper .jcarousel-control-next {
+	position: absolute;
+	top: 50%;
+	margin-top: -15px;
+	width: 19px;
+	height: 32px;
+	text-align: center;
+	text-decoration: none;
+	right: -33px;
+	background: url(../Images/arrow-right-slider.png) no-repeat right top;
+}
+
+
+/** logos **/
+
+/*.jcarousel-wrapper .jcarousel li #fors:hover img {
+
+
+}*/

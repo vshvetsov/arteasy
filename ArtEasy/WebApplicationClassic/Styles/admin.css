@@ -1,0 +1,31 @@
+﻿.admin_menu
+{
+	width:400px;
+	position:relative;
+	float:left;
+}
+
+#admin_content
+{
+	position:relative;
+	float:left;
+	width:624px;
+}
+
+
+
+.admin_list .list_table {
+    
+    border-collapse:collapse;
+}
+
+.admin_list .list_table th
+{
+    border: 1px solid black;
+}
+
+.admin_list .list_table td
+{
+    border: 1px solid black;
+    padding: 5px;
+}
